@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const CreateCompetition = () => {
+const competition = () => {
   return (
     <View>
-      <Text>CreateCompetition</Text>
+      <Text>competition</Text>
     </View>
   )
 }
 
-export default CreateCompetition
+export default competition
 
 const styles = StyleSheet.create({})
